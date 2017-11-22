@@ -1,0 +1,22 @@
+{
+  "name": "fancybox",
+  "version": "2.1.5",
+  "description": "fancyBox ========",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denar90/fancybox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denar90/fancybox/issues"
+  },
+  "homepage": "https://github.com/denar90/fancybox#readme"
+}
